@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.3.0](https://github.com/dcc-mcp/dcc-cua/compare/v0.2.0...v0.3.0) (2026-08-07)
+
+
+### Features
+
+* add multilingual semantic profiles ([009ad0e](https://github.com/dcc-mcp/dcc-cua/commit/009ad0e064bc9fbcf78760f251ad068504a349d1))
+* add trusted confirmation fallbacks ([03c1a21](https://github.com/dcc-mcp/dcc-cua/commit/03c1a214305f3c0aeffeea38e8e7d58bb0e30027))
+* embed private CUA worker ([6851534](https://github.com/dcc-mcp/dcc-cua/commit/685153481a18d55eb9f7e0efd2ec76025aca7015))
+
+
+### Bug Fixes
+
+* stabilize activated semantic actions ([#34](https://github.com/dcc-mcp/dcc-cua/issues/34)) ([a38d7fd](https://github.com/dcc-mcp/dcc-cua/commit/a38d7fd86456678e212e2b5e8b84fcb78db8879d))
+
 ## [0.2.0](https://github.com/dcc-mcp/dcc-cua/compare/v0.1.2...v0.2.0) (2026-08-05)
 
 
